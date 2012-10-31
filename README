@@ -1,0 +1,3 @@
+Tiny script to merge in an old quassel sqlite database into a postgresql database.
+
+Merges in buffers and backlog.
